@@ -82,7 +82,4 @@
 > Learn from blocks.  
 > Stay sovereign.
 
-
-<p align="center">
-  <img src="https://github.com/IK127-Maker/snake/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+![snake](./dist/snake.svg)
